@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-
+  
 
 관심 분야
 --------------
@@ -22,9 +22,12 @@
 -------------------
 2024.09.10 | 정보처리기사
 
+Education
+------------------
+2019.03~2025.02 | 한국기술교육대학교 컴퓨터공학부
 
-
-### Contact
+Contact
+-----------------
 <a href="rlarjsdn0316@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
