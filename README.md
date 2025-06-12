@@ -1,6 +1,8 @@
-## 김건우의 GitHub
+김건우의 GitHub
+-----------------------
+기술 스택
+--------------
 
-### 기술 스택
   
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -11,8 +13,15 @@
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 
-### 관심 분야
+관심 분야
+--------------
 `백앤드` `클라우드` `게임`
+
+
+자격증
+-------------------
+2024.09.10 | 정보처리기사
+
 
 
 ### Contact
